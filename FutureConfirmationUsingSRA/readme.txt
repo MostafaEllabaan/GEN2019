@@ -8,3 +8,10 @@ as well as the confirmation that MGE and ARGs both found on the same contigs wit
 
 
 BlastnAgainstSequenceReadArchive.sh All.AntibioticResistance.fa SRR9212196 /dev/shm/ResultFolder
+
+
+## assemble SRA genome
+
+
+
+## map both MGE & ARG
