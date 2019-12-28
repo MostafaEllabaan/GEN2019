@@ -12,6 +12,6 @@ BlastnAgainstSequenceReadArchive.sh All.AntibioticResistance.fa SRR9212196 /dev/
 
 ## assemble SRA genome
 
-
+AssembleGenomesFromSRAUsingSPAdes.sh SRR9212196 /dev/shm/ResultFolder/Assembly-SRR9212196
 
 ## map both MGE & ARG
