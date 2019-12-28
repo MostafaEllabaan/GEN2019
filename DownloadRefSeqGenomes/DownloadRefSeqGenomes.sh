@@ -19,7 +19,7 @@ awk -F"\t" '{f=split($0,a,"/");
 print  "mkdir "a[f-1]"; cd "a[f-1]"; wget "$1"/latest_assembly_versions/"}' > All.jobs.species
 
 ## create folder for each species and do that in parallel (20 species a time)
-MachineManagerBashScript.1.sh All.jobs.species 20 &> All.species.folder.creation.log
+../Scripts/MachineManagerBashScript.1.sh All.jobs.species 20 &> All.species.folder.creation.log
 
 
 
