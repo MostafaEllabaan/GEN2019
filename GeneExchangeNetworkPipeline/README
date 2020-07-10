@@ -1,13 +1,4 @@
 
 
-To run this system 
+This folder includes all the scripts necessary for running gene exchange network analysis. 
 
-you need to add this file to .bashrc 
-
-	export GeneEchangeNetworkProgramGlobalSetting=/run/media/mostafa/SoftWorkSpace/workspace2/GeneExchangeNetworkPipeline/globalVariables.sh
-	
-you just simply run this 
-	BASH> echo "export GeneEchangeNetworkProgramGlobalSetting=/run/media/mostafa/SoftWorkSpace/workspace2/GeneExchangeNetworkPipeline/globalVariables.sh" >~/.basrch
-	BASH> source ~/.bashrc
-	
-and change the variables in this /run/media/mostafa/SoftWorkSpace/workspace2/GeneExchangeNetworkPipeline/globalVariables.sh to fit with the current system.
