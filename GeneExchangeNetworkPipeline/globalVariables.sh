@@ -1,0 +1,8 @@
+
+
+source $GeneExchangeNetworkPipeline/ConfigurationFolder/DatabaseAddresses.sh
+
+source $GeneExchangeNetworkPipeline/ConfigurationFolder/ProgramRelatedCommands.sh
+
+source $GeneExchangeNetworkPipeline/ConfigurationFolder/Parameters.sh
+
